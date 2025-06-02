@@ -1,6 +1,6 @@
 # Análise de Dados Netflix com Pandas
 
-Este projeto contém um script Python para analisar dados de um catálogo da Netflix.
+
 
 ## Passos para Execução
 
